@@ -3,11 +3,11 @@
 ### `—◉ 🏮 DUDAS SOBRE EL BOT?, CONTACTANOS 🏮`
 <a href="http://wa.me/5493873084433" target="blank"><img src="https://img.shields.io/badge/ALEXISWITHLOGIC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<img src="https://telegra.ph/file/99cd30ad2572ef6d7345c.jpg" height="300px">
+
 
 ### `—◉ 🌸GRUPO DE ACTUALIZACIONES🌸`
 
-<a href="aquí pon el grupo xde" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="aquí pon el grupo xde" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_ACTUALIZACIONES-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > EL GRUPO NO ABRE...
 
