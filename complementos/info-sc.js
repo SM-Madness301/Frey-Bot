@@ -1,21 +1,21 @@
 let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
-let texto1 = `*https://github.com/BrunoSobrino/TheMystic-Bot-MD*`
+let texto1 = `*https://github.com/SM-Madness301*`
 let buttonMessage= {
-'document': { url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD` },
+'document': { url: `https://github.com/SM-Madness301` },
 'mimetype': `application/${document}`,
-'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
+'fileName': `「 𝐒𝐞𝐥𝐚𝐦 𝐃ü𝐧𝐲𝐚 」`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/BrunoSobrino/TheMystic-Bot-MD',
+'mediaUrl': 'https://github.com/SM-Madness301',
 'mediaType': 2,
 'previewType': 'pdf',
-'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
+'title': '𝚃𝚎 𝚐𝚞𝚜𝚝𝚊𝚛𝚊 𝚎𝚜𝚝𝚎 𝚋𝚘𝚝',
 'body': wm,
 'thumbnail': imagen1,
 'sourceUrl': 'https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA' }},
