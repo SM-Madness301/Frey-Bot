@@ -7,18 +7,14 @@
 
 ### `—◉ 🌸GRUPO DE ACTUALIZACIONES🌸`
 
-<a href="aquí pon el grupo xde" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_ACTUALIZACIONES-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/KzlzE9GrT0N0qozx708mYF" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_ACTUALIZACIONES-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-> EL GRUPO NO ABRE...
 
 ### `—◉ 🤖 BOTS OFICIALES 🤖`
 
-<a href="https://api.whatsapp.com/send/?phone=aquí pones en número del bot&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=855388427104&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
  > NO SPAMEAR COMANDOS
-
-### `—◉ 💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
@@ -28,10 +24,6 @@
 
 ### `—◉ 💕 PLUGINS 💕`
 - TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
-  
-### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
-
-[![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD)
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
@@ -103,7 +95,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `COLABORADORES DEL BOT` 
 <a href="https://github.com/Alexiswithlogic"><img src="https://github.com/Alexiswithlogic.png" width="100" height="100" alt="Alexiswithlogic"/></a>
 
-## `EDITOR & PORPIETARIO DEL BOT` 
+## `EDITOR & PROPIETARIO DEL BOT` 
 <a href="https://github.com/SM-Madness301"><img src="https://github.com/SM-Madness301.png" width="250" height="250" alt="SM-Madness301"/></a>
   
 `Silence-Bot-MD - By Alexis_With-logic`
