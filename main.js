@@ -274,7 +274,7 @@ if (stopped == 'close') return
 const status = global.db.data.settings[conn.user.jid] || {}
 let _uptime = process.uptime() * 1000    
 let uptime = clockString(_uptime)
-let bio = `🤖 ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ: ${uptime} ┃ 👑 ʙʏ ʙʀᴜɴᴏ sᴏʙʀɪɴᴏ ┃ 🔗 ᴄᴜᴇɴᴛᴀs ᴏғᴄ: https://www.atom.bio/theshadowbrokers-team`
+let bio = `🎡 Tiempo Activo: ${uptime} ┃ ⚜️ By 🎭𝐌𝐚𝐝𝐧ͩ𝐞ͫ𝐬ᷤ𝐬🎭 ┃ 🎡 Cuenta Ofc: https://www.instagram.com/alastor_madness`
 await conn.updateProfileStatus(bio).catch(_ => _)
 }, 60000)
 function clockString(ms) {
